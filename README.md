@@ -1,7 +1,10 @@
 # About Me
-Hands-on experience in MERN full-stack development and Python-based data analysis. Skilled in building scalable web apps and deriving insights from data. Seeking entry-level roles in Web Development or Data Analytics to apply technical and problem-solving skills.<br>
+Hands-on experience in MERN full-stack development and Python-based data analysis. Skilled in building scalable web apps and deriving insights from data. Seeking entry-level roles in Web Development or Data Analytics to apply technical and problem-solving skills.
+
 Reach me at - [aayushmanmukherjee01@gmail.com](mailto:aayushmanmukherjee01@gmail.com) 
 P.S. You can email me your favourite music, movies and books too friend.
+
+[Link to my Resume](https://drive.google.com/file/d/1pyz_YHbFRgBp3RC__6Dz1Jy7Uz52APKv/view?usp=sharing)
 
 
 # Socials
