@@ -4,7 +4,7 @@ Hands-on experience in Python-based data analysis and MERN full-stack developmen
 Reach me at - [aayushmanmukherjee01@gmail.com](mailto:aayushmanmukherjee01@gmail.com) 
 P.S. You can email me your favourite music, movies and books too friend.
 
-[Link to my Resume](https://drive.google.com/file/d/1Pn1PIODaYJ5FFqX5GDFSLB41wq2gpQvc/view?usp=sharing)
+[Link to my Resume](https://drive.google.com/file/d/1bvvWjeJPg5Sb232EUjAca0yak_pF6TI8/view?usp=sharing)
 
 [Link to my Website](https://aayushman-mukherjee-website.vercel.app)
 
