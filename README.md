@@ -1,5 +1,5 @@
 # About Me
-I have a strong focus on Machine Learning and model development. I am interested in building and deploying models that learn from real world data, automate decision making, and solve practical problems across domains. Also experienced in Python based data analysis, SQL, and MERN full stack development<br><br>Reach me at - [aayushmanmukherjee01@gmail.com](mailto:aayushmanmukherjee01@gmail.com) <br>P.S. You can email me your favourite music, movies and books too friend.
+I have a strong focus on Machine Learning and model development. I am interested in building and deploying models that learn from real world data, automate decision making, and solve practical problems across domains. Also experienced in Python based data analysis, SQL, and MERN full stack development<br><br>Reach me at - [aayushmanmukherjee01@gmail.com](mailto:aayushmanmukherjee01@gmail.com) <br>P.S. You can email me your favourite music, movies and books too friend.<br><br>[My Resume](https://drive.google.com/file/d/1dT3caD-WPPRio8MY5CVjHfnZ_1mku8mx/view?usp=sharing)
 
 
 ## Socials
