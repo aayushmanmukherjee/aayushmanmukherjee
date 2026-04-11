@@ -1,5 +1,5 @@
 # About Me
-Aspiring data scientist into ML and data analysis. I like building models and turning data into useful insights.
+Interested in Machine Learning and Data Science. I like building models and turning data into useful insights.
 
 
 # Socials
